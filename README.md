@@ -9,12 +9,18 @@
 After you run the server.py:
 You can run multiple terminals with client.py to connect to the server. 
 
-## 2. The TCP-protocol
+## 2. FTP
+The realization of basic file transfer protocol.
+
+## 3. Mul-methods:
+The common technology in processing multiple prcoesses or threadings.
+
+## 4. The TCP-protocol
 
 The realization of TCP protocol with server and client. 
 After you run the both scripts, you can see the information between two sides.
 
-## 3. The UDP-protocol
+## 5. The UDP-protocol
 
 The realization of UDP protocol with server and client. 
 
